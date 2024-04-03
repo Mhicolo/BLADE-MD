@@ -6,7 +6,7 @@
   "success_url": "/",
   "stack": "container",
 "env": {
-  "OWNER_NAME": {
+  "OWNER_NAME": "mhicolo"
   "description": "DONT CHANGE THIS", 
       "value": "BLADEMD"
   },
@@ -14,7 +14,7 @@
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
      "required" :false
     },
-    "AUTO_STATUS_SAVER": {
+    "AUTO_STATUS_SAVER": {"no, yes"
       "description": "Automatically saves status of every person and sends in log number.",
        "required" :false
        },
@@ -68,11 +68,11 @@
   "description": "Enter your desired prefix for bot.",
       "value": "."
   },
-  "OWNER_NUMBER": {
+  "OWNER_NUMBER": {2348035936169
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
        "value": "put owner number"
  },	  
-   "SESSION_ID": {
+   "SESSION_ID": {"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia085WkF5Y0FuazdxNUFkWlJPSGFMOXQ0SXl0eis2MWJreWpFb2NwT25HUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibCtvbnlPWmF5YXNYc3o4TDA1akt4cnZiWGdYU2ZVaExxWjBjV293OGR4UT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzQ3VmNmh1aDYrOE4wNjZQSG5qUXhXODRjWWQ2VXFwbHNYV2ZtMmFjTFg4PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJLd2pQRXlHMXozKzJ1djEwY1VSOGkyNk9zUWduTlhoSTdDcWFoMkszbGs0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVDZzJSQ1V5OG5aNG56RDFvODU3WVVnMFRWd3c2ek9iZlY3cElwVlI1MjA9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjVVTjFvTFlIcFhRNFpTSkF3Y3BuTzd0bXFDRWJiN2J0QkhJSytGdmY0MFE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUFNNkluSkdyNWZxZDB0OXFOQW1oZk1iNVduSjRlNWdiRjZ6elJZbmxXMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR1Rrb3hEaTR5eUc4MTNvbTNpZjJKRUkwczdDNmVCVWZFS0pueXlPQXMyaz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InZsbVpIUUNTVWRrN3orb0RhMnRpWUh5c2VYN3ArOUdLWXJ3emtuQWZ3bDRVcjRKUGlHeUU4aHU4MEY5a3d2SjR4Y1Q4NUZtbWJPOXhlWHc3ZXdhMWd3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NjMsImFkdlNlY3JldEtleSI6IlFQWVZwQlhXeVM3eHErdjUwWWpDd3phZVFNbEgyRkpuN3cyZlpRKzAwbGM9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IktMZEd5cHpqUUhDcmJnWkZpMWlwUVEiLCJwaG9uZUlkIjoiNjcyNmI0OTEtNWMzNS00MjMxLWI5ZTctY2E0ZmY1NWNlY2M3IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImFEa3lkYVpORmRRZW9nZHVJQmVwRlNHMHhFYz0ifSwicmVnaXN0ZXJlZCI6ZmFsc2UsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUTBsdkx3L3pRSzlGR2x6enV5aXEyV1F2bDA4PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSTJabkpRRUVPcm10TEFHR0FnZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiVHEvblM4RnhRVHZOWkxxMXJZZWUrYUo4TTdxaXRIekNzdjU3Y0x4dDlWUT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiL3gyNTZ0WjE5Mkw1a3VCdDJDcVRrNVNwT0NwMVkzSWl5ODNyQVpUWnBINGdxZkE5dzRvMm1qSUdyQ1VIZ0l3WFBURVlsK2prZlVBN2tXK1V5VDZMRFE9PSIsImRldmljZVNpZ25hdHVyZSI6IjdhRHp2dERoWDNuUUo2aVhGcUwyL0RoOE94SnB1UmljTkl6Q0Vva1RFeXhGTGZlc3FjVWhON0c3ZTBYdjdKZVdEWWxWR2p5aTlsQkNHQk9SWEZzaGlBPT0ifSwibWUiOnsiaWQiOiIyMzQ4MDM1OTM2MTY5OjEyQHMud2hhdHNhcHAubmV0IiwibmFtZSI6IkVmY2MgU2VyZ2VudCDwn5ib8J+YiyJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ4MDM1OTM2MTY5OjEyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlU2djUwdkJjVUU3eldTNnRhMkhudm1pZkRPNm9yUjh3ckwrZTNDOGJmVlUifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTIxNDExNjUsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBR3RkIn0=
     "description": "DONT CUT BLADE-MD;;; WORD PUT YOURE SESSION ID HERE.",
     "required" :true,
     "value": "BLADE-MD;;;"
@@ -94,7 +94,7 @@
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
          "value": "public"
   },
-      "AUTO_REACTION": {
+      "AUTO_REACTION": {😃😄😁😆😇😊
     "description": "Reacts emoji to all commands.",
      "value": "false",
      "required": false 
@@ -103,7 +103,7 @@
     "description": "PUT STICKER AUTHER NAME",
     "value": "ALEXTV:"
   },
-  "PACK_NAME": {
+  "PACK_NAME": {mhicolo
     "description": "PUT STICKER PACK NAME",
     "value": "BLADE-MD"
   },
